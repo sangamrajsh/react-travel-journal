@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-travel-journal/static/css/main.4253b132.css",
+    "main.js": "/react-travel-journal/static/js/main.840d3c73.js",
+    "static/media/forest-tower.jpg": "/react-travel-journal/static/media/forest-tower.a916b271dc4d38f1b304.jpg",
+    "static/media/sauraha.jpeg": "/react-travel-journal/static/media/sauraha.c04eeb4a9696c30161d9.jpeg",
+    "static/media/voeringsfossen.png": "/react-travel-journal/static/media/voeringsfossen.700a380b18435c33b467.png",
+    "static/media/fuji.jpg": "/react-travel-journal/static/media/fuji.7bf6e0d608f270fc1bcf.jpg",
+    "static/media/logowhite.png": "/react-travel-journal/static/media/logowhite.ef5e9e881ba5534a8941.png",
+    "static/media/favicon.ico": "/react-travel-journal/static/media/favicon.437c376fab05f2404ee4.ico",
+    "index.html": "/react-travel-journal/index.html",
+    "main.4253b132.css.map": "/react-travel-journal/static/css/main.4253b132.css.map",
+    "main.840d3c73.js.map": "/react-travel-journal/static/js/main.840d3c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4253b132.css",
+    "static/js/main.840d3c73.js"
+  ]
+}
